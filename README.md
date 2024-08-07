@@ -1,5 +1,8 @@
 # data-imputation
 
+ссылка на текст -- https://docs.google.com/document/d/1ZuTCrl-tDrlo8Jg909GzHhFK_0ITxvxWeCnJnRRbAw4/edit?usp=sharing  
+
+
 # Ссылки на ноутбуки  
 > mimic clustering v2 -- ноуткбук с кластеризацией и различными группировкой заболеваний  
 > [https://colab.research.google.com/drive/1Q06Vsg87TVlizt0PLwzAMfTh6xFOuDbr?usp=sharing  
