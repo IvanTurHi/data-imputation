@@ -1,6 +1,7 @@
 # data-imputation
 
 ссылка на текст -- https://docs.google.com/document/d/1ZuTCrl-tDrlo8Jg909GzHhFK_0ITxvxWeCnJnRRbAw4/edit?usp=sharing  
+Ссылкан а текст на английском -- https://docs.google.com/document/d/1BaBMb7_AuAN-qNT334WCeFGK8mGXnxmuFGf38G5TIvA/edit?usp=sharing
 
 
 # Ссылки на ноутбуки  
